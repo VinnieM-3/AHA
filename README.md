@@ -3,4 +3,4 @@ AHA
 
 Java application used to analyze jpeg photo histograms.
 
-![screenshot](screenshot.png)
+![screenshot](screenshot1.png)
